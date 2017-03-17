@@ -1,0 +1,1 @@
+C:\Users\misicka\Documents\Visual Studio 2015\Projects\MvcSf\MvcSf.Data\obj\Debug\MvcSf.Data.csprojResolveAssemblyReference.cache

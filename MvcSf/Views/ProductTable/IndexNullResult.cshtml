@@ -1,0 +1,18 @@
+﻿@model IEnumerable<MvcSf.Models.ProductTableViewModel>
+
+@{
+    ViewBag.Title = "Search Available Products";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Title: @Html.TextBox("SearchString") <br /><br />
+        <input type="submit" value="Filter" />
+    </p><br />
+}

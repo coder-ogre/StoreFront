@@ -1,0 +1,110 @@
+﻿@using Microsoft.AspNet.Identity
+@using MvcSf.Models;
+@if (Request.IsAuthenticated)
+        {
+            ViewBag.cartCount = 0;
+            
+            using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+            {
+                @Html.AntiForgeryToken()
+
+                <ul class="nav navbar-nav navbar-right">
+            <li>
+                @Html.ActionLink("Hello " + User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+            </li>
+            <li>
+                @*
+                    <a href="fakeURL">
+                        View Cart: @{
+                            var db = new MvcSf2DataEntities();
+                            var userQuery = (from userLinq in db.UserTables.Where(userLinq => String.Equals(userLinq.UserName, System.Web.HttpContext.Current.User.Identity.Name)) select userLinq).FirstOrDefault();
+                            var matchCartToUserQuery = (from shoppingCartLinq in db.ShoppingCartTables.Where(s => s.UserID == userQuery.UserID) select shoppingCartLinq).FirstOrDefault();
+                            var getCartItemFromCart = (from cartItemLinq in db.ShoppingCartProductTables.Where(c => c.ShoppingCartID == matchCartToUserQuery.ShoppingCartID) select cartItemLinq);
+                            int i = 0;
+                            int j = 2;
+                            //for(i = 0; i < getCartItemFromCart.Count();)
+                            foreach (var countTheseProducts in (from cartItemLinq in db.ShoppingCartProductTables.Where(c => c.ShoppingCartID == matchCartToUserQuery.ShoppingCartID) select cartItemLinq).ToList())
+                            {
+                                i = i + countTheseProducts.Quantity.Value;
+                            }
+                            Html.DisplayName("HELLO THERE WHY GOOD DAY SIR GOOD DAY TO YOU AHA YES MY GOOD MIBLI." + j);
+                            //var matchProductToCart = from shoppingCartProductLinq in odb.ShoppingCartProductTables join shoppingCartLinqLinq in matchCartToUserQuery on shoppingCartProductLinq.ShoppingCartID equals shoppingCartLinqLinq select shoppingCartProductLinq.ShoppingCartProductID;
+
+                            //var getPriceQuery = from priceLinq in db.ProductTables where priceLinq.ProductID == id select priceLinq.Price;
+                            //var getImageQuery = from imageLinq in db.ProductTables where imageLinq.ProductID == id select imageLinq.ImageFile;
+                            //int testCounter = (from imageLinq in db.ProductTables where imageLinq.ProductID == id select imageLinq.ImageFile).Count();
+                            //var matchCartItemToCart = (from cartItemLinq in db.ShoppingCartProductTables.Where(c => c.ShoppingCartID == matchCartToUserQuery.ShoppingCartID && c.ProductID == id) select cartItemLinq).FirstOrDefault();
+                        }
+
+
+                    </a>*@
+
+                @{
+                    @*try
+                        {
+                            var db = new MvcSf2DataEntities();
+                            var userQuery = (from userLinq in db.UserTables.Where(userLinq => String.Equals(userLinq.UserName, System.Web.HttpContext.Current.User.Identity.Name)) select userLinq).FirstOrDefault();
+                            int i = 0;
+                            if (!userQuery.Equals(null))
+                            {
+                                var matchCartToUserQuery = (from shoppingCartLinq in db.ShoppingCartTables.Where(s => s.UserID == userQuery.UserID) select shoppingCartLinq).FirstOrDefault();
+                                if (!matchCartToUserQuery.Equals(null))
+                                {
+                                    var getCartItemFromCart = (from cartItemLinq in db.ShoppingCartProductTables.Where(c => c.ShoppingCartID == matchCartToUserQuery.ShoppingCartID) select cartItemLinq);
+                                    foreach (var countTheseProducts in (from cartItemLinq in db.ShoppingCartProductTables.Where(c => c.ShoppingCartID == matchCartToUserQuery.ShoppingCartID) select cartItemLinq).ToList())
+                                    {
+                                        i = i + countTheseProducts.Quantity.Value;
+                                    }
+                                    ViewBag.cartCount = i;
+                                }
+                            }
+                            @Html.ActionLink("View Cart: " + i, "Index", "ShoppingCartProductTables", routeValues: null, htmlAttributes: new { title = "SeeCart" })
+                        }
+                        catch
+                        {
+                            ViewBag.cartCount = 0;
+                            @Html.ActionLink("View Cart: 0", "Index", "ShoppingCartProductTables", routeValues: null, htmlAttributes: new { title = "SeeCart" })
+                        }*@
+                    //int i = (int)ViewBag.cartCount;
+
+                    try
+                    {
+                        var db = new sfdb();
+                        var userQuery = (from userLinq in db.UserTable.Where(userLinq => String.Equals(userLinq.UserName, System.Web.HttpContext.Current.User.Identity.Name)) select userLinq).FirstOrDefault();
+                        int i = 0;
+                        if (!userQuery.Equals(null))
+                        {
+                            var matchCartToUserQuery = (from shoppingCartLinq in db.ShoppingCartTable.Where(s => s.UserID == userQuery.UserID) select shoppingCartLinq).FirstOrDefault();
+                            if (!matchCartToUserQuery.Equals(null))
+                            {
+                                var getCartItemFromCart = (from cartItemLinq in db.ShoppingCartProductTable.Where(c => c.ShoppingCartID == matchCartToUserQuery.ShoppingCartID) select cartItemLinq);
+                                foreach (var countTheseProducts in (from cartItemLinq in db.ShoppingCartProductTable.Where(c => c.ShoppingCartID == matchCartToUserQuery.ShoppingCartID) select cartItemLinq).ToList())
+                                {
+                                    i = i + countTheseProducts.Quantity.Value;
+                                }
+                                ViewBag.cartCount = i;
+                                                                                                @*                       changed "title" to "id" below    *@
+                                @Html.ActionLink(("View Cart: " + i), "Index", "ShoppingCartProductTable", routeValues: null, htmlAttributes: new { id = "SeeCart" })
+                            }
+                        }
+                    }
+                    catch
+                    {
+                    }
+                }
+
+
+            <li>
+                <a href="javascript:document.getElementById('logoutForm').submit()">Log off</a>
+            </li>
+        </ul>
+                        }
+                    }
+                    else
+                    {
+                        ViewBag.cartCount = 0;
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+                            <li>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+                        </ul>
+                    }

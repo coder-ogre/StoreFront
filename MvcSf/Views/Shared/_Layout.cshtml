@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("StoreFront", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    @*<li>@Html.ActionLink("Home", "Index", "Home")</li>*@
+                    @*<li><a href="~/Home" class="elements"><span>Home</span></a></li>*@
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    @*<li>@Html.ActionLink("Search", "About", "Home")</li>*@
+                    @*<li><a href="~/ProductTables" class="elements"><span>Search</span></a></li>*@
+                    <li>@Html.ActionLink("Search", "Index", "ProductTable")</li>
+                    <li>@Html.ActionLink("Profile", "Contact", "Home")</li>
+                </ul>
+                <div id="partialLoginContainer">@Html.Partial("_LoginPartial", new { id = "thePartialLoginView" }) </div>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="container body-content">
+        <h1 style="text-align: center">@ViewBag.Title</h1>
+        @RenderBody()
+
+        <div style="position: fixed; bottom: 0; ">
+            <hr style="text-align: center; position: relative; left: -20%; width: 1000%; "/>
+            @*<hr id="resizeableFooterLine" />
+            <script>
+                var width = $(window).width() + 500;
+                $("#resizeableFooterLine").resizeTo(800, 600);
+            </script>*@
+            <footer>
+                <p id="sffll">&copy;@DateTime.Now.Year - StoreFront</p>
+            </footer>
+        </div>
+    </div>
+    @*
+        <div style="position: relative; bottom: 300px;">
+            <hr style="padding-right: 500px;"/>
+        </div>
+    *@
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+
+</html>

@@ -1,0 +1,112 @@
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\ApplicationInsights.config
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\csc.exe
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\vbc.exe
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\MvcSf.Tests.dll.config
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\MvcSf.Tests.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\MvcSf.Tests.pdb
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\MvcSf.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Owin.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\EntityFramework.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\MvcSf.pdb
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\EntityFramework.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\obj\Debug\MvcSf.Tests.csprojResolveAssemblyReference.cache
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\obj\Debug\MvcSf.Tests.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf.Tests\obj\Debug\MvcSf.Tests.pdb
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\ApplicationInsights.config
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\csc.exe
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\vbc.exe
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\MvcSf.Tests.dll.config
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\MvcSf.Tests.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\MvcSf.Tests.pdb
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\MvcSf.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Razor.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Owin.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\EntityFramework.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\MvcSf.pdb
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Razor.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\EntityFramework.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\obj\Debug\MvcSf.Tests.csprojResolveAssemblyReference.cache
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\obj\Debug\MvcSf.Tests.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf.Tests\obj\Debug\MvcSf.Tests.pdb

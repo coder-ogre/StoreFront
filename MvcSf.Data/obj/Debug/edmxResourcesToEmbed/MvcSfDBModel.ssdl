@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="storefrontDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AddressTable">
+    <Key>
+      <PropertyRef Name="AddressID" />
+    </Key>
+    <Property Name="AddressID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="Address1" Type="varchar" MaxLength="200" />
+    <Property Name="Address2" Type="varchar" MaxLength="200" />
+    <Property Name="Address3" Type="varchar" MaxLength="200" />
+    <Property Name="City" Type="varchar" MaxLength="200" />
+    <Property Name="StateID" Type="int" />
+    <Property Name="ZipCode" Type="varchar" MaxLength="20" />
+    <Property Name="IsBilling" Type="bit" />
+    <Property Name="IsShipping" Type="bit" />
+    <Property Name="DateCreated" Type="datetime" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" />
+    <Property Name="DateModified" Type="datetime" />
+    <Property Name="ModifiedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="OrderProductTable">
+    <Key>
+      <PropertyRef Name="OrderProductID" />
+    </Key>
+    <Property Name="OrderProductID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OrderID" Type="int" Nullable="false" />
+    <Property Name="ProductID" Type="int" Nullable="false" />
+    <Property Name="Quantity" Type="int" />
+    <Property Name="Price" Type="money" />
+    <Property Name="DateCreated" Type="datetime" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" />
+    <Property Name="DateModified" Type="datetime" />
+    <Property Name="ModifiedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="OrderTable">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserID" Type="int" Nullable="false" />
+    <Property Name="AddressID" Type="int" />
+    <Property Name="OrderDate" Type="datetime" />
+    <Property Name="Total" Type="money" />
+    <Property Name="StatusID" Type="int" />
+    <Property Name="DateCreated" Type="datetime" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" />
+    <Property Name="DateModified" Type="datetime" />
+    <Property Name="ModifiedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ProductTable">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductName" Type="varchar" MaxLength="500" />
+    <Property Name="ProductDescription" Type="varchar" MaxLength="1000" />
+    <Property Name="IsPublished" Type="bit" />
+    <Property Name="Quantity" Type="int" />
+    <Property Name="Price" Type="money" />
+    <Property Name="ImageFile" Type="varchar" MaxLength="500" />
+    <Property Name="DateCreated" Type="datetime" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" />
+    <Property Name="DateModified" Type="varchar" MaxLength="50" />
+    <Property Name="ModifiedBy" Type="varchar" MaxLength="50" />
+    <Property Name="ProductImage" Type="image" />
+  </EntityType>
+  <EntityType Name="ShoppingCartProductTable">
+    <Key>
+      <PropertyRef Name="ShoppingCartProductID" />
+    </Key>
+    <Property Name="ShoppingCartProductID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ShoppingCartID" Type="int" Nullable="false" />
+    <Property Name="ProductID" Type="int" Nullable="false" />
+    <Property Name="Quantity" Type="int" />
+    <Property Name="Price" Type="money" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" />
+    <Property Name="DateModified" Type="datetime" />
+    <Property Name="ModifiedBy" Type="varchar" MaxLength="50" />
+    <Property Name="ImageFile" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="ShoppingCartTable">
+    <Key>
+      <PropertyRef Name="ShoppingCartID" />
+    </Key>
+    <Property Name="ShoppingCartID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserID" Type="int" Nullable="false" />
+    <Property Name="DateCreated" Type="datetime" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" />
+    <Property Name="DateModified" Type="datetime" />
+    <Property Name="ModifiedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="StateTable">
+    <Key>
+      <PropertyRef Name="StateID" />
+    </Key>
+    <Property Name="StateID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StateAbbrev" Type="varchar" MaxLength="2" />
+    <Property Name="StateName" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="StatusTable">
+    <Key>
+      <PropertyRef Name="StatusID" />
+    </Key>
+    <Property Name="StatusID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StatusDescription" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="UserTable">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="200" />
+    <Property Name="Password" Type="varbinary" MaxLength="500" />
+    <Property Name="EmailAddress" Type="varchar" MaxLength="255" />
+    <Property Name="IsAdmin" Type="bit" />
+    <Property Name="DateCreated" Type="datetime" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" />
+    <Property Name="DateModified" Type="datetime" />
+    <Property Name="ModifiedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_AddressTable_StateTable">
+    <End Role="StateTable" Type="Self.StateTable" Multiplicity="0..1" />
+    <End Role="AddressTable" Type="Self.AddressTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StateTable">
+        <PropertyRef Name="StateID" />
+      </Principal>
+      <Dependent Role="AddressTable">
+        <PropertyRef Name="StateID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AddressTable_UserTable">
+    <End Role="UserTable" Type="Self.UserTable" Multiplicity="0..1" />
+    <End Role="AddressTable" Type="Self.AddressTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserTable">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="AddressTable">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderProductTable_OrderTable">
+    <End Role="OrderTable" Type="Self.OrderTable" Multiplicity="1" />
+    <End Role="OrderProductTable" Type="Self.OrderProductTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OrderTable">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="OrderProductTable">
+        <PropertyRef Name="OrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderProductTable_ProductTable">
+    <End Role="ProductTable" Type="Self.ProductTable" Multiplicity="1" />
+    <End Role="OrderProductTable" Type="Self.OrderProductTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductTable">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="OrderProductTable">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderTable_AddressTable">
+    <End Role="AddressTable" Type="Self.AddressTable" Multiplicity="0..1" />
+    <End Role="OrderTable" Type="Self.OrderTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AddressTable">
+        <PropertyRef Name="AddressID" />
+      </Principal>
+      <Dependent Role="OrderTable">
+        <PropertyRef Name="AddressID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderTable_StatusTable">
+    <End Role="StatusTable" Type="Self.StatusTable" Multiplicity="0..1" />
+    <End Role="OrderTable" Type="Self.OrderTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StatusTable">
+        <PropertyRef Name="StatusID" />
+      </Principal>
+      <Dependent Role="OrderTable">
+        <PropertyRef Name="StatusID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderTable_UserTable">
+    <End Role="UserTable" Type="Self.UserTable" Multiplicity="1" />
+    <End Role="OrderTable" Type="Self.OrderTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserTable">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="OrderTable">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ShoppingCartProductTable_ProductTable">
+    <End Role="ProductTable" Type="Self.ProductTable" Multiplicity="1" />
+    <End Role="ShoppingCartProductTable" Type="Self.ShoppingCartProductTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductTable">
+        <PropertyRef Name="ProductID" />
+      </Principal>
+      <Dependent Role="ShoppingCartProductTable">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ShoppingCartProductTable_ShoppingCartTable">
+    <End Role="ShoppingCartTable" Type="Self.ShoppingCartTable" Multiplicity="1" />
+    <End Role="ShoppingCartProductTable" Type="Self.ShoppingCartProductTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ShoppingCartTable">
+        <PropertyRef Name="ShoppingCartID" />
+      </Principal>
+      <Dependent Role="ShoppingCartProductTable">
+        <PropertyRef Name="ShoppingCartID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ShoppingCartTable_UserTable">
+    <End Role="UserTable" Type="Self.UserTable" Multiplicity="1" />
+    <End Role="ShoppingCartTable" Type="Self.ShoppingCartTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserTable">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="ShoppingCartTable">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="storefrontDBModelStoreContainer">
+    <EntitySet Name="AddressTable" EntityType="Self.AddressTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OrderProductTable" EntityType="Self.OrderProductTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OrderTable" EntityType="Self.OrderTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ProductTable" EntityType="Self.ProductTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ShoppingCartProductTable" EntityType="Self.ShoppingCartProductTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ShoppingCartTable" EntityType="Self.ShoppingCartTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StateTable" EntityType="Self.StateTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StatusTable" EntityType="Self.StatusTable" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserTable" EntityType="Self.UserTable" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_AddressTable_StateTable" Association="Self.FK_AddressTable_StateTable">
+      <End Role="StateTable" EntitySet="StateTable" />
+      <End Role="AddressTable" EntitySet="AddressTable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AddressTable_UserTable" Association="Self.FK_AddressTable_UserTable">
+      <End Role="UserTable" EntitySet="UserTable" />
+      <End Role="AddressTable" EntitySet="AddressTable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderProductTable_OrderTable" Association="Self.FK_OrderProductTable_OrderTable">
+      <End Role="OrderTable" EntitySet="OrderTable" />
+      <End Role="OrderProductTable" EntitySet="OrderProductTable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderProductTable_ProductTable" Association="Self.FK_OrderProductTable_ProductTable">
+      <End Role="ProductTable" EntitySet="ProductTable" />
+      <End Role="OrderProductTable" EntitySet="OrderProductTable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderTable_AddressTable" Association="Self.FK_OrderTable_AddressTable">
+      <End Role="AddressTable" EntitySet="AddressTable" />
+      <End Role="OrderTable" EntitySet="OrderTable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderTable_StatusTable" Association="Self.FK_OrderTable_StatusTable">
+      <End Role="StatusTable" EntitySet="StatusTable" />
+      <End Role="OrderTable" EntitySet="OrderTable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderTable_UserTable" Association="Self.FK_OrderTable_UserTable">
+      <End Role="UserTable" EntitySet="UserTable" />
+      <End Role="OrderTable" EntitySet="OrderTable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ShoppingCartProductTable_ProductTable" Association="Self.FK_ShoppingCartProductTable_ProductTable">
+      <End Role="ProductTable" EntitySet="ProductTable" />
+      <End Role="ShoppingCartProductTable" EntitySet="ShoppingCartProductTable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ShoppingCartProductTable_ShoppingCartTable" Association="Self.FK_ShoppingCartProductTable_ShoppingCartTable">
+      <End Role="ShoppingCartTable" EntitySet="ShoppingCartTable" />
+      <End Role="ShoppingCartProductTable" EntitySet="ShoppingCartProductTable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ShoppingCartTable_UserTable" Association="Self.FK_ShoppingCartTable_UserTable">
+      <End Role="UserTable" EntitySet="UserTable" />
+      <End Role="ShoppingCartTable" EntitySet="ShoppingCartTable" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

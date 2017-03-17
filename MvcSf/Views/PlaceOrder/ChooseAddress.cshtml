@@ -1,0 +1,110 @@
+﻿@model IEnumerable<MvcSf.Models.AddressTable>
+
+@{
+    ViewBag.Title = "ChooseAddress";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ChooseAddress</h2>
+
+<p>
+    @Html.ActionLink("Enter New Billing Address", "CreateAddress", new {id = ViewBag.UserID});
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Address1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address3)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.City)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ZipCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsBilling)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsShipping)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateCreated)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateModified)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ModifiedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StateTable.StateAbbrev)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserTable.UserName)
+        </th>
+        <th><text><b>Edit | Details | Delete</b></text></th>
+        <th><text><b>Choose this address</b></text></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address2)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address3)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.City)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ZipCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsBilling)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsShipping)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateCreated)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateModified)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ModifiedBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StateTable.StateAbbrev)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserTable.UserName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.AddressID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.AddressID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.AddressID })
+        </td>
+        <td>
+            @Html.ActionLink("Choose this address", "ConfirmOrder", "PlaceOrder", new { id = item.AddressID }, null);
+        </td>
+    </tr>
+}
+
+</table>

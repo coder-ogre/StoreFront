@@ -1,0 +1,328 @@
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\ApplicationInsights.config
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\roslyn\csc.exe
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\roslyn\System.Collections.Immutable.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\roslyn\vbc.exe
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\roslyn\VBCSCompiler.exe
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\roslyn\VBCSCompiler.exe.config
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\MvcSf.dll.config
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\MvcSf.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\MvcSf.pdb
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Antlr3.Runtime.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\EntityFramework.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\EntityFramework.SqlServer.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AI.Web.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AI.WindowsServer.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.ApplicationInsights.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Google.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Web.Infrastructure.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Newtonsoft.Json.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Owin.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.Helpers.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.Mvc.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.Optimization.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.Razor.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.WebPages.Deployment.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.WebPages.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.WebPages.Razor.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\WebGrease.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AI.Web.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AI.WindowsServer.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.ApplicationInsights.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.Helpers.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.Mvc.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.Optimization.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.Razor.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.WebPages.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.WebPages.Deployment.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\System.Web.WebPages.Razor.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Antlr3.Runtime.pdb
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Newtonsoft.Json.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\EntityFramework.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\EntityFramework.SqlServer.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Google.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\obj\Debug\MvcSf.csprojResolveAssemblyReference.cache
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\obj\Debug\MvcSf.dll
+c:\users\misicka\documents\visual studio 2015\Projects\MvcSf\MvcSf\obj\Debug\MvcSf.pdb
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\ApplicationInsights.config
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\roslyn\csc.exe
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\roslyn\System.Collections.Immutable.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\roslyn\vbc.exe
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\roslyn\VBCSCompiler.exe
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\roslyn\VBCSCompiler.exe.config
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\MvcSf.dll.config
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\MvcSf.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\MvcSf.pdb
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Antlr3.Runtime.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\EntityFramework.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\EntityFramework.SqlServer.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AI.DependencyCollector.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AI.Web.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AI.WindowsServer.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.ApplicationInsights.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Google.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Web.Infrastructure.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Newtonsoft.Json.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Owin.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.Helpers.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.Mvc.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.Optimization.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.Razor.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.WebPages.Deployment.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.WebPages.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.WebPages.Razor.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\WebGrease.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AI.DependencyCollector.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AI.Web.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AI.WindowsServer.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.ApplicationInsights.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.Helpers.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.Mvc.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.Optimization.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.Razor.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.WebPages.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.WebPages.Deployment.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\System.Web.WebPages.Razor.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Antlr3.Runtime.pdb
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Newtonsoft.Json.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\EntityFramework.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\EntityFramework.SqlServer.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Google.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Visual_Studio_Projects\MvcSf\MvcSf\obj\Debug\MvcSf.csprojResolveAssemblyReference.cache
+C:\Visual_Studio_Projects\MvcSf\MvcSf\obj\Debug\MvcSf.dll
+C:\Visual_Studio_Projects\MvcSf\MvcSf\obj\Debug\MvcSf.pdb
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\ApplicationInsights.config
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\roslyn\csc.exe
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\roslyn\vbc.exe
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\roslyn\VBCSCompiler.exe
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\MvcSf.dll.config
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\MvcSf.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\MvcSf.pdb
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Antlr3.Runtime.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\EntityFramework.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\EntityFramework.SqlServer.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AI.Web.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.ApplicationInsights.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Newtonsoft.Json.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Owin.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.Helpers.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.Mvc.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.Optimization.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.Razor.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.WebPages.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.WebPages.Razor.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\WebGrease.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AI.Web.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.ApplicationInsights.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.Helpers.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.Mvc.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.Optimization.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.Razor.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.WebPages.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\System.Web.WebPages.Razor.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Antlr3.Runtime.pdb
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Newtonsoft.Json.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\EntityFramework.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\EntityFramework.SqlServer.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\obj\Debug\MvcSf.csprojResolveAssemblyReference.cache
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\obj\Debug\MvcSf.dll
+C:\Users\misicka\Desktop\11amThursJuly14 absoluteClusterDuck\MvcSf\MvcSf\obj\Debug\MvcSf.pdb
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\ApplicationInsights.config
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\roslyn\csc.exe
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\roslyn\vbc.exe
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\roslyn\VBCSCompiler.exe
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\MvcSf.dll.config
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\MvcSf.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\MvcSf.pdb
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Antlr3.Runtime.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\EntityFramework.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\EntityFramework.SqlServer.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AI.Web.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.ApplicationInsights.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Newtonsoft.Json.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Owin.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.Helpers.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.Mvc.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.Optimization.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.Razor.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.WebPages.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.WebPages.Razor.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\WebGrease.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AI.Web.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.ApplicationInsights.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.Helpers.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.Mvc.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.Optimization.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.Razor.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.WebPages.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\System.Web.WebPages.Razor.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Antlr3.Runtime.pdb
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Newtonsoft.Json.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\EntityFramework.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\EntityFramework.SqlServer.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\obj\Debug\MvcSf.csprojResolveAssemblyReference.cache
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\obj\Debug\MvcSf.dll
+C:\Users\misicka\Desktop\2PMThursJuly14\MvcSf\MvcSf\obj\Debug\MvcSf.pdb
